@@ -1,17 +1,15 @@
+# 个人主页
 
 ## 基本信息
-
 张舒，女，华东师范大学心理与认知科学学院在读博士生。
 terrificsuer@163.com
 
 ### 教育经历
-
 - 博士：2021年-今，华东师范大学，心理与认知科学学院，应用心理学专业
 - 硕士：2019年-2021年，天津师范大学，心理学部，应用心理专业
 - 学士：2015年-2019年，辽宁师范大学，心理学院，应用心理学专业
 
 ### 研究兴趣
-
 - 工作场所中的网络闲逛行为
 - 网络使用（手机使用、媒体使用）
 - 网络分析方法
@@ -20,9 +18,9 @@ terrificsuer@163.com
 ### 论文（<sup>#</sup>共同一作）
 #### Working paper
 - **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T. (accpeted). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*.
-- **Zhang, S.**, Cao, S., Yu, Y., Huang, H., Meng, H. (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
+- **Zhang, S.**, Cao, S., Yu, Y., Huang, H., & Meng, H. (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
 #### 2022
-- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q., Meng, H. (2022). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*. Advance online publication. https://doi.org/10.1002/smi.321
+- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q., & Meng, H. (2022). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*. Advance online publication. https://doi.org/10.1002/smi.321
 - **Zhang, S.**, Liu, T., Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*. Advance online publication. https://doi.org/10.1007/s11469-021-00738-1
 - Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*, 283–289. https://doi.org/10.1111/sjop.12805
 #### 2021
@@ -37,6 +35,5 @@ terrificsuer@163.com
 - **张舒**, 陈雪明, 薛的妮, 钞淼,  刘拓. (2020). 疫情相关媒体内容暴露与心理健康的关系, 中国社会心理学会2020年学术年会, 辽宁大连(线上).
 - **张舒**, 夏方婧, 刘拓. (2020). 网络分析视角下的疫情期间媒体使用与心理状况的分析. 中国心理学会行为与健康分会(筹)2020年学术年会, 北京(线上).
 - **张舒**, 刘拓. (2020). 疫情相关媒体信息暴露与心理状况分析. 2020年北京高校应用心理与认知科学联合论坛, 北京(线上).【获评优秀口头报告】
-
 ### 项目参与
 - 国家级大学生创新训练项目，大学生人际关系与心理健康的关系研究——基于社会网络分析方法(NO.201810165002)，2018-2019年，主持人
