@@ -10,7 +10,7 @@
 - 网络使用（手机使用、媒体使用）
 - 网络分析方法
 
-## 研究成果
+## 科研经历
 ### 学术论文（<sup>#</sup>共同一作）
 #### **待发表**
 - **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T. (accepted). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*.
