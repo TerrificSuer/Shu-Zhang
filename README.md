@@ -13,7 +13,7 @@
 ## 研究成果
 ### 学术论文（<sup>#</sup>共同一作）
 #### **待发表**
-- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T. (accpeted). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*.
+- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T. (accepted). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*.
 - **Zhang, S.**, Cao, S., Yu, Y., Huang, H., & Meng, H. (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
 
 #### **2022**
