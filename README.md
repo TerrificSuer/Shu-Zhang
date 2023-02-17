@@ -16,23 +16,23 @@
 - **Zhang, S.**, Cao, S., Yu, Y., Huang, H., & Meng, H. (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
 
 #### **2023**
-- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T. (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*, *20*(1), 43–51. https://doi.org/10.30773/pi.2022.0146
+- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T. (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*, *20*(1), 43–51. [https://doi.org/10.30773/pi.2022.0146](https://www.psychiatryinvestigation.org/journal/view.php?number=1547)
 
 #### **2022**
-- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q., & Meng, H. (2022). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*. Advance online publication. https://doi.org/10.1002/smi.321
-- **Zhang, S.**, Liu, T., Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*. Advance online publication. https://doi.org/10.1007/s11469-021-00738-1
-- Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*, 283–289. https://doi.org/10.1111/sjop.12805
+- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q., & Meng, H. (2022). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*. Advance online publication. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215)
+- **Zhang, S.**, Liu, T., Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*. Advance online publication. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1)
+- Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*, 283–289. [https://doi.org/10.1111/sjop.12805](https://onlinelibrary.wiley.com/doi/10.1111/sjop.12805)
 
 #### **2021**
-- **Zhang, S.**, Li, Y., Ren, S., & Liu, T. (2021). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*. Advance online publication. https://doi.org/10.1007/s12144-021-01629-3
+- **Zhang, S.**, Li, Y., Ren, S., & Liu, T. (2021). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*. Advance online publication. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3)
 
 #### **2020**
-- **张舒**, 刘拓, 夏方婧, 李雨桐. (2020). 大学生人际关系与心理健康的社会网络分析. *中国心理卫生杂志*, *34*(10), 855–859.
+- **张舒**, 刘拓, 夏方婧, 李雨桐. (2020). 大学生人际关系与心理健康的社会网络分析. *中国心理卫生杂志*, *34*(10), 855–859. [http://doi.org/10.3969/j.issn.1000-6729.2020.10.010](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoh3tjdiuy_GXNjoPEmoU1on7HoqwOB_PM3w5YA29I21U&uniplatform=NZKPT)
 
 ### 会议报告
 #### **国内**
 - **张舒**, 江俊颖, 郝垒垒, 张麒, 孟慧. (2022). 何为保护，何为风险？消防员心理健康、恢复体验、睡眠和疲劳的网络分析, 中国社会心理学会2022年学术年会, 湖南长沙(线上).
-- **张舒**, 刘拓, 孟慧. (2021). 负性情绪，还是人际问题和压力会使人们更常使用手机社交媒体? 第二十三届全国心理学学术会议, 内蒙古呼和浩特(线上).
+- **张舒**, 刘拓, 孟慧. (2021). 负性情绪，还是人际问题和压力会使人们更常使用手机社交媒体? 第二十三届全国心理学学术会议, 内蒙古呼和浩特(线上).【[原文下载地址](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOET0Xr_I8pgMuCFSD7JyYj-iU-nwOTXOu7CSfEbkZAWdtEbZKcp9VcdAchQCI_vr9CRnpjfsPZWGM%3d&uniplatform=NZKPT)】
 - **张舒**, 颜俊雨, 刘拓. (2021). 发布和不发布新冠疫情相关媒体内容的人在心理状况上有什么不同? 中国社会心理学会2021年学术年会, 江苏苏州.
 - **张舒**, 陈雪明, 薛的妮, 钞淼,  刘拓. (2020). 疫情相关媒体内容暴露与心理健康的关系, 中国社会心理学会2020年学术年会, 辽宁大连(线上).
 - **张舒**, 夏方婧, 刘拓. (2020). 网络分析视角下的疫情期间媒体使用与心理状况的分析. 中国心理学会行为与健康分会(筹)2020年学术年会, 北京(线上).
