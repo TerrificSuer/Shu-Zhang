@@ -1,11 +1,11 @@
 # 张舒
 
 ## 教育经历 (Educational Background)
-- 博士: 2021-今，华东师范大学，心理与认知科学学院，应用心理学专业<br>
+- 博士：2021-今，华东师范大学，心理与认知科学学院，应用心理学专业<br>
 Ph.D.: East China Normal University, School of Psychology and Cognitive Science, Applied Psychology
-- 硕士: 2019-2021，天津师范大学，心理学部，应用心理专业<br>
+- 硕士：2019-2021，天津师范大学，心理学部，应用心理专业<br>
 M.AP.: Tianjin Normal University, Faculty of Psychology, Applied Psychology
-- 学士: 2015-2019，辽宁师范大学，心理学院，应用心理学专业<br>
+- 学士：2015-2019，辽宁师范大学，心理学院，应用心理学专业<br>
 B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 
 ## 研究兴趣 (Research Interests)
@@ -18,7 +18,7 @@ Network analysis methods (social network analysis, psychometric network analysis
 
 ## 研究成果 (Research)
 ### 学术论文 (Articles)<br>
-注释: <sup>#</sup>共同一作<br>
+注释：<sup>#</sup>共同一作<br>
 Note: <sup>#</sup>co-first-author
 #### 待发表 (Working Papers)
 - **Zhang, S.**, Cao, S., Yu, Y., Huang, H., & Meng, H. (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
