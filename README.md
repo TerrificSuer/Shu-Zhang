@@ -32,7 +32,7 @@ Note: <sup>#</sup>co-first-author
 - Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*, 283–289. [https://doi.org/10.1111/sjop.12805](https://onlinelibrary.wiley.com/doi/10.1111/sjop.12805)
 
 #### 2021
-- **Zhang, S.**, Li, Y., Ren, S., & Liu, T. (2021). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*. Advance online publication. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3)
+- **Zhang, S.**, Li, Y., Ren, S., & Liu, T. (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*. *42*, 2059-2066. [online in 2021] [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) 
 
 #### 2020
 - **张舒**, 刘拓, 夏方婧, 李雨桐. (2020). 大学生人际关系与心理健康的社会网络分析. *中国心理卫生杂志*, *34*(10), 855–859. [http://doi.org/10.3969/j.issn.1000-6729.2020.10.010](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoh3tjdiuy_GXNjoPEmoU1on7HoqwOB_PM3w5YA29I21U&uniplatform=NZKPT)<br>
