@@ -9,11 +9,9 @@ M.AP.: Tianjin Normal University, Faculty of Psychology, Applied Psychology
 B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 
 ## 研究兴趣 (Research Interests)
-- 工作场所中的网络闲逛行为<br>
-Cyberloafing behaviors in the workplace
-- 网络使用（手机使用、媒体使用）<br>
-Internet use (mobile phone use, media use)
-- 网络分析方法（社会网络分析、心理测量网络分析）<br>
+- 网络使用行为 (工作场所的网络闲逛行为、网络休闲)<br>
+Internet use behaviors (cyberloafing behaviors in the workplace, cyber leisure)
+- 网络分析方法 (社会网络分析、心理测量网络分析)<br>
 Network analysis methods (social network analysis, psychometric network analysis)
 
 ## 研究成果 (Research)
