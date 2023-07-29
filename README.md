@@ -67,9 +67,10 @@ National Innovation Training Project for Undergraduates (China)
 - 2021年天津师范大学“师大圆梦人”提名奖
 
 ## 审稿 (Reviewer)
-- *International Journal of Environmental Research and Public Health*
+- *Current Psychology*
 - *Journal of Substance Use*
 - *Sustainability*
+- *International Journal of Environmental Research and Public Health*
 
 
 
