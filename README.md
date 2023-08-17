@@ -16,42 +16,42 @@ Network analysis methods (social network analysis, psychometric network analysis
 
 ## 研究成果 (Research)
 ### 学术论文 (Articles)<br>
-注释：<sup>#</sup>共同一作<br>
-Note: <sup>#</sup>co-first-author
+注释：<sup>#</sup>共同一作; <sup>+</sup>通讯作者<br>
+Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 #### 待发表 (Working Papers)
-- **Zhang, S.**, Cao, S., Yu, Y., Huang, H., & Meng, H. (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
-- Le, J.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, Chen, M., Zhang, Q., & Meng, H. (under review). Development and validation of the Perceived Partner Stroke Scale in Chinese married individuals.
+- **Zhang, S.**, Cao, S., Yu, Y., Huang, H., & Meng, H.<sup>+</sup> (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
+- Le, J.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, Chen, M., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (under review). Development and validation of the Perceived Partner Stroke Scale in Chinese married individuals.
 
 #### 2023
-- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q., & Meng, H. (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) [online in 2022] (SCIE/SSCI Q1/Q2 IF=4.1)
-- **Zhang, S.**, Li, Y., Ren, S., & Liu, T. (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*, *42*(3), 2059-2066. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) [online in 2021] (SSCI Q2 IF=2.8)
-- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T. (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*, *20*(1), 43–51. [https://doi.org/10.30773/pi.2022.0146](https://www.psychiatryinvestigation.org/journal/view.php?number=1547) (SCIE/SSCI Q3 IF=2.7)
+- **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*. *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) [online in 2022] (SCIE/SSCI Q1 IF=8.0)
+- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) [online in 2022] (SCIE/SSCI Q1/Q2 IF=4.1)
+- **Zhang, S.**, Li, Y., Ren, S., & Liu, T.<sup>+</sup> (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*, *42*(3), 2059-2066. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) [online in 2021] (SSCI Q2 IF=2.8)
+- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T.<sup>+</sup> (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*, *20*(1), 43–51. [https://doi.org/10.30773/pi.2022.0146](https://www.psychiatryinvestigation.org/journal/view.php?number=1547) (SCIE/SSCI Q3 IF=2.7)
 
 #### 2022
-- **Zhang, S.**, Liu, T., Liu, X., & Chao, M. (2022). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*. Advance online publication. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) (SCIE/SSCI Q1 IF=8.0)
-- Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H. (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*(4), 283–289. [https://doi.org/10.1111/sjop.12805](https://onlinelibrary.wiley.com/doi/10.1111/sjop.12805) (SSCI Q3 IF=2.1)
+- Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H.<sup>+</sup> (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*(4), 283–289. [https://doi.org/10.1111/sjop.12805](https://onlinelibrary.wiley.com/doi/10.1111/sjop.12805) (SSCI Q3 IF=2.1)
 
 #### 2021
 
 #### 2020
-- **张舒**, 刘拓, 夏方婧, 李雨桐. (2020). 大学生人际关系与心理健康的社会网络分析. *中国心理卫生杂志*, *34*(10), 855–859. [http://doi.org/10.3969/j.issn.1000-6729.2020.10.010](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoh3tjdiuy_GXNjoPEmoU1on7HoqwOB_PM3w5YA29I21U&uniplatform=NZKPT) (CSSCI扩展版收录)<br> 
+- **张舒**, 刘拓<sup>+</sup>, 夏方婧, 李雨桐<sup>+</sup>. (2020). 大学生人际关系与心理健康的社会网络分析. *中国心理卫生杂志*, *34*(10), 855–859. [http://doi.org/10.3969/j.issn.1000-6729.2020.10.010](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoh3tjdiuy_GXNjoPEmoU1on7HoqwOB_PM3w5YA29I21U&uniplatform=NZKPT) (CSSCI扩展版收录)<br> 
 **Zhang, S.**, Liu, T., Xia, F., & Li, Y. (2020). A social network analysis approach to interpersonal relationship and mental health in college students. *Chinese Mental Health Journal*, *34*(10), 855–859.
 
 ### 会议报告 (Conference Presentations)
 #### 国内 (In China)
-- **张舒**, 江俊颖, 郝垒垒, 张麒, 孟慧. (2022). 何为保护，何为风险？消防员心理健康、恢复体验、睡眠和疲劳的网络分析, 中国社会心理学会2022年学术年会, 湖南长沙(线上).<br>
-**Zhang, S.**, Jiang, J., Hao, L., Zhang, Q., & Meng, H. (2022). What is protection and what is risk? Network analysis of firefighters' mental health, recovery experiences, sleep, and fatigue. Paper presented at 2022 Annual Academic Conference of Chinese Association of Social Psychology, Changsha, Hunan, China (online).
-- **张舒**, 刘拓, 孟慧. (2021). 负性情绪，还是人际问题和压力会使人们更常使用手机社交媒体? 第二十三届全国心理学学术会议, 内蒙古呼和浩特(线上).【[下载原文/Download](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOET0Xr_I8pgMuCFSD7JyYj-iU-nwOTXOu7CSfEbkZAWdtEbZKcp9VcdAchQCI_vr9CRnpjfsPZWGM%3d&uniplatform=NZKPT)】<br>
-**Zhang, S.**, Liu, T., & Meng, H. (2021). What motivate people to use mobile social media more often, negative affect, interpersonal problems, or stress? Paper presented at the 23rd National Academic Conference of Psychology, Hohhot, Inner Mongolia Autonomous Region, China (online). 
-- **张舒**, 颜俊雨, 刘拓. (2021). 发布和不发布新冠疫情相关媒体内容的人在心理状况上有什么不同? 中国社会心理学会2021年学术年会, 江苏苏州.<br>
-**Zhang, S.**, Yan, J., & Liu, T. (2021) .What are the differences in psychological outcomes between people who posted COVID-19-related media content and those who did not? Paper presented at 2021 Annual Academic Conference of Chinese Association of Social Psychology, Suzhou, Jiangsu, China. 
-- **张舒**, 陈雪明, 薛的妮, 钞淼,  刘拓. (2020). 疫情相关媒体内容暴露与心理健康的关系, 中国社会心理学会2020年学术年会, 辽宁大连(线上).<br>
-**Zhang, S.**, Chen, X., Xue, D., Chao, M., & Liu, T. (2020). Associations between exposure to pandemic-related media contents and mental health. Paper presented at 2020 Annual Academic Conference of Chinese Association of Social Psychology, Dalian, Liaoning, China (online). 
-- **张舒**, 夏方婧, 刘拓. (2020). 网络分析视角下的疫情期间媒体使用与心理状况的分析. 中国心理学会行为与健康分会(筹)2020年学术年会, 北京(线上).
-- **张舒**, 刘拓. (2020). 疫情相关媒体信息暴露与心理状况分析. 2020年北京高校应用心理与认知科学联合论坛, 北京(线上).【获评优秀口头报告】
+- **张舒**, 江俊颖, 郝垒垒, 张麒, 孟慧<sup>+</sup>. (2022). 何为保护，何为风险？消防员心理健康、恢复体验、睡眠和疲劳的网络分析, 中国社会心理学会2022年学术年会, 湖南长沙(线上).<br>
+**Zhang, S.**, Jiang, J., Hao, L., Zhang, Q., & Meng, H.<sup>+</sup> (2022). What is protection and what is risk? Network analysis of firefighters' mental health, recovery experiences, sleep, and fatigue. Paper presented at 2022 Annual Academic Conference of Chinese Association of Social Psychology, Changsha, Hunan, China (online).
+- **张舒**, 刘拓, 孟慧<sup>+</sup>. (2021). 负性情绪，还是人际问题和压力会使人们更常使用手机社交媒体? 第二十三届全国心理学学术会议, 内蒙古呼和浩特(线上).【[下载原文/Download](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOET0Xr_I8pgMuCFSD7JyYj-iU-nwOTXOu7CSfEbkZAWdtEbZKcp9VcdAchQCI_vr9CRnpjfsPZWGM%3d&uniplatform=NZKPT)】<br>
+**Zhang, S.**, Liu, T., & Meng, H.<sup>+</sup> (2021). What motivate people to use mobile social media more often, negative affect, interpersonal problems, or stress? Paper presented at the 23rd National Academic Conference of Psychology, Hohhot, Inner Mongolia Autonomous Region, China (online). 
+- **张舒**, 颜俊雨, 刘拓<sup>+</sup>. (2021). 发布和不发布新冠疫情相关媒体内容的人在心理状况上有什么不同? 中国社会心理学会2021年学术年会, 江苏苏州.<br>
+**Zhang, S.**, Yan, J., & Liu, T.<sup>+</sup> (2021) .What are the differences in psychological outcomes between people who posted COVID-19-related media content and those who did not? Paper presented at 2021 Annual Academic Conference of Chinese Association of Social Psychology, Suzhou, Jiangsu, China. 
+- **张舒**, 陈雪明, 薛的妮, 钞淼, 刘拓<sup>+</sup>. (2020). 疫情相关媒体内容暴露与心理健康的关系, 中国社会心理学会2020年学术年会, 辽宁大连(线上).<br>
+**Zhang, S.**, Chen, X., Xue, D., Chao, M., & Liu, T.<sup>+</sup> (2020). Associations between exposure to pandemic-related media contents and mental health. Paper presented at 2020 Annual Academic Conference of Chinese Association of Social Psychology, Dalian, Liaoning, China (online). 
+- **张舒**, 夏方婧, 刘拓<sup>+</sup>. (2020). 网络分析视角下的疫情期间媒体使用与心理状况的分析. 中国心理学会行为与健康分会(筹)2020年学术年会, 北京(线上).
+- **张舒**, 刘拓<sup>+</sup>. (2020). 疫情相关媒体信息暴露与心理状况分析. 2020年北京高校应用心理与认知科学联合论坛, 北京(线上).【获评优秀口头报告】
 
 #### 国际 (Abroad)
-- **Zhang, S.**, Chen, X., Li, Y., & Liu, T. (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. Paper presented at the 32nd International Congress of Psychology, Prague, Czech Republic (online).
+- **Zhang, S.**, Chen, X., Li, Y., & Liu, T.<sup>+</sup> (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. Paper presented at the 32nd International Congress of Psychology, Prague, Czech Republic (online).
 
 ### 科研项目 (Grants)
 - 中央高校基本科研业务费专项资金资助项目/华东师范大学优秀博士生学术创新能力提升计划(NO.YBNLTS2023-045)，增益还是损耗？——动机视角下员工的网络闲逛行为，2023-2024年，在研，主持<br>
