@@ -18,9 +18,6 @@ Network analysis methods (social network analysis, psychometric network analysis
 ### 学术论文 (Articles)<br>
 注释：<sup>#</sup>共同一作; <sup>+</sup>通讯作者<br>
 Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
-#### 待发表 (Working Papers)
-- **Zhang, S.**, Cao, S., Yu, Y., Huang, H., & Meng, H.<sup>+</sup> (under review). Why do we cyberloaf? A meta-analysis on antecedents and outcomes of cyberloafing.
-- Le, J.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, Chen, M., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (under review). Development and validation of the Perceived Partner Stroke Scale in Chinese married individuals.
 
 #### 2023
 - **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*, *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) [online in 2022] (SCIE/SSCI Q1 IF=8.0)
@@ -76,6 +73,7 @@ National Innovation Training Project for Undergraduates (China)
 ## 审稿 (Reviewer)
 - *Current Psychology*
 - *Journal of Substance Use*
+- *BMC Psychology*
 - *Sustainability*
 - *International Journal of Environmental Research and Public Health*
 
