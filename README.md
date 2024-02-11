@@ -11,7 +11,7 @@ B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 ## 研究兴趣 (Research Interests)
 - 网络使用行为 (工作场所的网络闲逛行为、网络休闲)<br>
 Internet use behaviors (cyberloafing behaviors in the workplace, cyber leisure)
-- 工作与家庭 (工作联通行为)<br>
+- 工作与家庭 (工作连通行为)<br>
 Work and family (after hour connectivity)
 - 网络分析方法 (社会网络分析、心理测量网络分析)<br>
 Network analysis methods (social network analysis, psychometric network analysis)
