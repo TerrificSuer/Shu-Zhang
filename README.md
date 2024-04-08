@@ -22,13 +22,18 @@ Network analysis methods (social network analysis, psychometric network analysis
 Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 
 #### 2023
-- **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*, *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) [online in 2022] (SCIE/SSCI Q1 IF<sub>2022</sub>=8.0)
-- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) [online in 2022] (SCIE/SSCI Q1/Q2 IF<sub>2022</sub>=4.1)
-- **Zhang, S.**, Li, Y., Ren, S., & Liu, T.<sup>+</sup> (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*, *42*(3), 2059-2066. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) [online in 2021] (SSCI Q2 IF<sub>2022</sub>=2.8)
-- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T.<sup>+</sup> (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*, *20*(1), 43–51. [https://doi.org/10.30773/pi.2022.0146](https://www.psychiatryinvestigation.org/journal/view.php?number=1547) (SCIE/SSCI Q3 IF<sub>2022</sub>=2.7)
+- **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*, *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) <br>
+[online in 2022] (SCIE/SSCI Q1 IF<sub>2022</sub>=8.0)
+- **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) <br>
+[online in 2022] (SCIE/SSCI Q1/Q2 IF<sub>2022</sub>=4.1)
+- **Zhang, S.**, Li, Y., Ren, S., & Liu, T.<sup>+</sup> (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*, *42*(3), 2059-2066. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) <br>
+[online in 2021] (SSCI Q2 IF<sub>2022</sub>=2.8)
+- **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T.<sup>+</sup> (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*, *20*(1), 43–51. [https://doi.org/10.30773/pi.2022.0146](https://www.psychiatryinvestigation.org/journal/view.php?number=1547) <br>
+(SCIE/SSCI Q3 IF<sub>2022</sub>=2.7)
 
 #### 2022
-- Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H.<sup>+</sup> (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*(4), 283–289. [https://doi.org/10.1111/sjop.12805](https://onlinelibrary.wiley.com/doi/10.1111/sjop.12805) (SSCI Q3 IF<sub>2022</sub>=2.1)
+- Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H.<sup>+</sup> (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*(4), 283–289. [https://doi.org/10.1111/sjop.12805](https://onlinelibrary.wiley.com/doi/10.1111/sjop.12805) <br>
+(SSCI Q3 IF<sub>2022</sub>=2.1)
 
 #### 2021
 
