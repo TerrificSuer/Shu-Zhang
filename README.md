@@ -75,6 +75,7 @@ National Innovation Training Project for Undergraduates (China)
 - 2021年天津师范大学“师大圆梦人”提名奖
 
 ## 审稿 (Reviewer)
+- *Applied Psychology: Health and Well-Being*
 - *International Journal of Mental Health and Addiction*
 - *Current Psychology*
 - *Journal of Substance Use*
