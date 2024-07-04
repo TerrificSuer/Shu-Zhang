@@ -43,11 +43,11 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 ### 会议报告 (Conference Presentations)
 #### 国内 (In China)
 ##### 一作及报告人
-- **张舒**, 曹诗堞, 余小曼, 孟慧<sup>+</sup>. (2023). 即使在“摸鱼”，我的工作也在“控制”着我: 网络闲逛的恢复作用以及强迫型工作激情的跨层调节. 中国心理学会社会心理学专业委员会2023年年会, 海南三亚.<br>
-- **张舒**, 江俊颖, 郝垒垒, 张麒, 孟慧<sup>+</sup>. (2022). 何为保护，何为风险？消防员心理健康、恢复体验、睡眠和疲劳的网络分析. 中国社会心理学会2022年学术年会, 湖南长沙(线上).<br>
-- **张舒**, 刘拓, 孟慧<sup>+</sup>. (2021). 负性情绪，还是人际问题和压力会使人们更常使用手机社交媒体? 第二十三届全国心理学学术会议, 内蒙古呼和浩特(线上).【[下载原文/Download](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOET0Xr_I8pgMuCFSD7JyYj-iU-nwOTXOu7CSfEbkZAWdtEbZKcp9VcdAchQCI_vr9CRnpjfsPZWGM%3d&uniplatform=NZKPT)】<br>
-- **张舒**, 颜俊雨, 刘拓<sup>+</sup>. (2021). 发布和不发布新冠疫情相关媒体内容的人在心理状况上有什么不同? 中国社会心理学会2021年学术年会, 江苏苏州.<br>
-- **张舒**, 陈雪明, 薛的妮, 钞淼, 刘拓<sup>+</sup>. (2020). 疫情相关媒体内容暴露与心理健康的关系. 中国社会心理学会2020年学术年会, 辽宁大连(线上).<br>
+- **张舒**, 曹诗堞, 余小曼, 孟慧<sup>+</sup>. (2023). 即使在“摸鱼”，我的工作也在“控制”着我: 网络闲逛的恢复作用以及强迫型工作激情的跨层调节. 中国心理学会社会心理学专业委员会2023年年会, 海南三亚.
+- **张舒**, 江俊颖, 郝垒垒, 张麒, 孟慧<sup>+</sup>. (2022). 何为保护，何为风险？消防员心理健康、恢复体验、睡眠和疲劳的网络分析. 中国社会心理学会2022年学术年会, 湖南长沙(线上).
+- **张舒**, 刘拓, 孟慧<sup>+</sup>. (2021). 负性情绪，还是人际问题和压力会使人们更常使用手机社交媒体? 第二十三届全国心理学学术会议, 内蒙古呼和浩特(线上).【[下载原文/Download](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C467SBiOvrai6TdxYiSzCnOET0Xr_I8pgMuCFSD7JyYj-iU-nwOTXOu7CSfEbkZAWdtEbZKcp9VcdAchQCI_vr9CRnpjfsPZWGM%3d&uniplatform=NZKPT)
+- **张舒**, 颜俊雨, 刘拓<sup>+</sup>. (2021). 发布和不发布新冠疫情相关媒体内容的人在心理状况上有什么不同? 中国社会心理学会2021年学术年会, 江苏苏州.
+- **张舒**, 陈雪明, 薛的妮, 钞淼, 刘拓<sup>+</sup>. (2020). 疫情相关媒体内容暴露与心理健康的关系. 中国社会心理学会2020年学术年会, 辽宁大连(线上).
 - **张舒**, 夏方婧, 刘拓<sup>+</sup>. (2020). 网络分析视角下的疫情期间媒体使用与心理状况的分析. 中国心理学会行为与健康分会(筹)2020年学术年会, 北京(线上).
 - **张舒**, 刘拓<sup>+</sup>. (2020). 疫情相关媒体信息暴露与心理状况分析. 2020年北京高校应用心理与认知科学联合论坛, 北京(线上).【获评优秀口头报告】
 
@@ -59,8 +59,8 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 
 #### 国际 (Abroad)
 ##### 一作及报告人
-- **Zhang, S.**, Lim, V. K. G., Cao, S., Yu, Y., Yu, X., & Meng, H.<sup>+</sup> (2024). Impact of recovery from cyberloafing on employees’ innovation performance: The moderating role of general work engagement. The 13th Asia Academy of Management Conference, Miri, Malaysia. [Oral Pre]
-- **Zhang, S.**, Chen, X., Li, Y., & Liu, T.<sup>+</sup> (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. The 32nd International Congress of Psychology, Prague, Czech Republic (online). [Oral Pre]
+- **Zhang, S.**, Lim, V. K. G., Cao, S., Yu, Y., Yu, X., & Meng, H.<sup>+</sup> (2024). Impact of recovery from cyberloafing on employees’ innovation performance: The moderating role of general work engagement. The 13th Asia Academy of Management Conference, Miri, Malaysia. 【Oral Pre】
+- **Zhang, S.**, Chen, X., Li, Y., & Liu, T.<sup>+</sup> (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. The 32nd International Congress of Psychology, Prague, Czech Republic (online). 【Oral Pre; [下载原文/Download](https://onlinelibrary.wiley.com/doi/full/10.1002/ijop.13042)】
 
 ### 科研项目 (Grants)
 - 中央高校基本科研业务费专项资金资助项目/华东师范大学优秀博士生学术创新能力提升计划(NO.YBNLTS2023-045)，2023-2024年，在研，主持<br>
