@@ -59,7 +59,8 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 
 #### 国际 (Abroad)
 ##### 一作及报告人
-- **Zhang, S.**, Chen, X., Li, Y., & Liu, T.<sup>+</sup> (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. Paper presented at the 32nd International Congress of Psychology, Prague, Czech Republic (online).
+- **Zhang, S.**, Lim, V. K. G., Cao, S., Yu, Y., Yu, X., & Meng, H.<sup>+</sup> (2024). Impact of recovery from cyberloafing on employees’ innovation performance: The moderating role of general work engagement. The 13th Asia Academy of Management Conference, Miri, Malaysia. [Oral Pre]
+- **Zhang, S.**, Chen, X., Li, Y., & Liu, T.<sup>+</sup> (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. The 32nd International Congress of Psychology, Prague, Czech Republic (online). [Oral Pre]
 
 ### 科研项目 (Grants)
 - 中央高校基本科研业务费专项资金资助项目/华东师范大学优秀博士生学术创新能力提升计划(NO.YBNLTS2023-045)，2023-2024年，在研，主持<br>
