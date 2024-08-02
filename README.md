@@ -12,7 +12,7 @@ B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 - 网络使用行为 (工作场所的网络闲逛行为、网络休闲)<br>
 Internet use behaviors (cyberloafing behaviors in the workplace, cyber leisure)
 - 人际关系与亲社会行为 (同伴关系、师生关系、助人行为)<br>
-Interpersonal relationships and prosocial behaviours (peer relationships, teacher-student relationships, helping behaviours)
+Interpersonal relationships and prosocial behaviors (peer relationships, teacher-student relationships, helping behaviors)
 - 工作与家庭 (工作连通行为)<br>
 Work and family (after hour connectivity)
 - 网络分析方法 (社会网络分析、心理测量网络分析)<br>
