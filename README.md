@@ -11,6 +11,8 @@ B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 ## 研究兴趣 (Research Interests)
 - 网络使用行为 (工作场所的网络闲逛行为、网络休闲)<br>
 Internet use behaviors (cyberloafing behaviors in the workplace, cyber leisure)
+- 人际关系与亲社会行为 (同伴关系、师生关系、助人行为)<br>
+Interpersonal relationships and prosocial behaviours (peer relationships, teacher-student relationships, helping behaviours)
 - 工作与家庭 (工作连通行为)<br>
 Work and family (after hour connectivity)
 - 网络分析方法 (社会网络分析、心理测量网络分析)<br>
@@ -59,7 +61,7 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 
 #### 国际 (Abroad)
 ##### 一作及报告人
-- **Zhang, S.**, Meng, H., Yu, X., Cao, S., & Sun, J. (2024). Identifying the recovery effect of cyberloafing: The moderating role of obsessive work passion. The 33rd International Congress of Psychology, Prague, Czech Republic.
+- **Zhang, S.**, Meng, H., Yu, X., Cao, S., & Sun, J. (2024). Identifying the recovery effect of cyberloafing: The moderating role of obsessive work passion. The 33rd International Congress of Psychology, Prague, Czech Republic. (Oral Pre)
 - **Zhang, S.**, Lim, V. K. G., Cao, S., Yu, Y., Yu, X., & Meng, H.<sup>+</sup> (2024). Impact of recovery from cyberloafing on employees’ innovation performance: The moderating role of general work engagement. The 13th Asia Academy of Management Conference, Miri, Malaysia. (Oral Pre)
 - **Zhang, S.**, Chen, X., Li, Y., & Liu, T. (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. The 32nd International Congress of Psychology, Prague, Czech Republic. (Oral Pre; Online)【[下载原文/Download](https://onlinelibrary.wiley.com/doi/full/10.1002/ijop.13042)】
 
