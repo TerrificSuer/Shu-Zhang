@@ -21,20 +21,20 @@ Network analysis methods (social network analysis, psychometric network analysis
 ## 研究成果 (Research)
 注释：<sup>#</sup>共同一作; <sup>+</sup>通讯作者<br>
 Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
-### 学术论文 (Papers)<br>
+### 已发表论文 (Published Papers)<br>
 #### 2023
-- **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*, *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) <br>
-(SCIE/SSCI Q1/Q2 IF<sub>2023</sub>=3.2)
 - **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) <br>
-(SCIE/SSCI Q1/Q2 IF<sub>2023</sub>=3.0)
+(SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.0)
+- **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*, *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) <br>
+(SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.2)
 - **Zhang, S.**, Li, Y., Ren, S., & Liu, T.<sup>+</sup> (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*, *42*(3), 2059-2066. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) <br>
-(SSCI Q2 IF<sub>2023</sub>=2.5)
+(SSCI Q2 IF<sub>2023</sub> = 2.5)
 - **Zhang, S.**, Zhang, Y., Xue, D., Zhang, H., Chao, M., & Liu, T.<sup>+</sup> (2023). What are the differences in psychological outcomes between people who posted COVID-19-related content on social media and those who did not? *Psychiatry Investigation*, *20*(1), 43–51. [https://doi.org/10.30773/pi.2022.0146](https://www.psychiatryinvestigation.org/journal/view.php?number=1547) <br>
-(SCIE/SSCI Q3 IF<sub>2023</sub>=1.8)
+(SCIE/SSCI Q3 IF<sub>2023</sub> = 1.8)
 
 #### 2022
 - Liu, T.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, & Zhang, H.<sup>+</sup> (2022). Exposure to COVID-19-related media content and mental health during the initial outbreak of COVID-19 in China. *Scandinavian Journal of Psychology*, *63*(4), 283–289. [https://doi.org/10.1111/sjop.12805](https://onlinelibrary.wiley.com/doi/10.1111/sjop.12805) <br>
-(SSCI Q3 IF<sub>2022</sub>=2.1)
+(SSCI Q3 IF<sub>2022</sub> = 2.1)
 
 #### 2021
 
@@ -61,12 +61,12 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 
 #### 国际 (Abroad)
 ##### 一作及报告人
-- **Zhang, S.**, Meng, H., Yu, X., Cao, S., & Sun, J. (2024). Identifying the recovery effect of cyberloafing: The moderating role of obsessive work passion. The 33rd International Congress of Psychology, Prague, Czech Republic. (Oral Pre)
-- **Zhang, S.**, Lim, V. K. G., Cao, S., Yu, Y., Yu, X., & Meng, H.<sup>+</sup> (2024). Impact of recovery from cyberloafing on employees’ innovation performance: The moderating role of general work engagement. The 13th Asia Academy of Management Conference, Miri, Malaysia. (Oral Pre)
-- **Zhang, S.**, Chen, X., Li, Y., & Liu, T. (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. The 32nd International Congress of Psychology, Prague, Czech Republic. (Oral Pre; Online)【[下载原文/Download](https://onlinelibrary.wiley.com/doi/full/10.1002/ijop.13042)】
+- **Zhang, S.**, Meng, H., Yu, X., Cao, S., & Sun, J. (2024). Identifying the recovery effect of cyberloafing: The moderating role of obsessive work passion. 33rd International Congress of Psychology, Prague, Czech Republic. (Oral Pre)
+- **Zhang, S.**, Lim, V. K. G., Cao, S., Yu, Y., Yu, X., & Meng, H.<sup>+</sup> (2024). Impact of recovery from cyberloafing on employees’ innovation performance: The moderating role of general work engagement. 13th Asia Academy of Management Conference, Miri, Malaysia. (Oral Pre)
+- **Zhang, S.**, Chen, X., Li, Y., & Liu, T. (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. 32nd International Congress of Psychology, Prague, Czech Republic. (Oral Pre; Online)【[下载原文/Download](https://onlinelibrary.wiley.com/doi/full/10.1002/ijop.13042)】
 
 ### 科研项目 (Grants)
-- 中央高校基本科研业务费专项资金资助项目/华东师范大学优秀博士生学术创新能力提升计划(NO.YBNLTS2023-045)，2023-2024年，在研，主持<br>
+- 中央高校基本科研业务费专项资金资助项目/华东师范大学优秀博士生学术创新能力提升计划(NO.YBNLTS2023-045)，2023-2025年，在研，主持<br>
 Fundamental Research Funds for the Central Universities, ECNU Academic Innovation Promotion Program for Excellent Doctoral Students
 - 国家级大学生创新训练项目(NO.201810165002)，大学生人际关系与心理健康的关系研究——基于社会网络分析方法，2018-2019年，已结题，主持<br>
 National Innovation Training Project for Undergraduates (China)
