@@ -61,7 +61,7 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 
 #### 国际 (Abroad)
 ##### 一作及报告人
-- **Zhang, S.**, Meng, H., Yu, X., Cao, S., & Sun, J. (2024). Identifying the recovery effect of cyberloafing: The moderating role of obsessive work passion. 33rd International Congress of Psychology, Prague, Czech Republic. (Oral Pre)
+- **Zhang, S.**, Meng, H., Yu, X., Cao, S., & Sun, J. (2024). Identifying the recovery effect of cyberloafing: The moderating role of obsessive work passion. 33rd International Congress of Psychology, Prague, Czech Republic. (Oral Pre)【[下载原文/Download](https://onlinelibrary.wiley.com/doi/full/10.1002/ijop.13186)】
 - **Zhang, S.**, Lim, V. K. G., Cao, S., Yu, Y., Yu, X., & Meng, H.<sup>+</sup> (2024). Impact of recovery from cyberloafing on employees’ innovation performance: The moderating role of general work engagement. 13th Asia Academy of Management Conference, Miri, Malaysia. (Oral Pre)
 - **Zhang, S.**, Chen, X., Li, Y., & Liu, T. (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. 32nd International Congress of Psychology, Prague, Czech Republic. (Oral Pre; Online)【[下载原文/Download](https://onlinelibrary.wiley.com/doi/full/10.1002/ijop.13042)】
 
