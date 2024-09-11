@@ -18,7 +18,7 @@ Work and family (after hour connectivity)
 - 网络分析方法 (社会网络分析、心理测量网络分析)<br>
 Network analysis methods (social network analysis, psychometric network analysis)
 
-## 研究成果 (Research)
+## 研究成果 (Research Outputs)
 注释：<sup>#</sup>共同一作; <sup>+</sup>通讯作者<br>
 Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 ### 已发表论文 (Published Papers)<br>
