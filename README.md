@@ -24,7 +24,7 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 ### 已发表论文 (Published Papers)<br>
 #### 2023
 - **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) <br>
-(SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.0)
+(SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.0; AJG<sub>2024</sub> 3*)
 - **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*, *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) <br>
 (SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.2)
 - **Zhang, S.**, Li, Y., Ren, S., & Liu, T.<sup>+</sup> (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*, *42*(3), 2059-2066. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) <br>
