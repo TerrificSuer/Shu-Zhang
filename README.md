@@ -24,7 +24,7 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 ### 已发表论文 (Published Papers)<br>
 #### 2023
 - **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) <br>
-(SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.0; AJG<sub>2024</sub> 3*)
+(SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.0; ABS<sub>2024</sub> 3*)
 - **Zhang, S.**, Liu, T.<sup>+</sup>, Liu, X., & Chao, M. (2023). Network analysis of media exposure and psychological outcomes during the initial outbreak of COVID-19 in China. *International Journal of Mental Health and Addiction*, *21*(4), 2570–2582. [https://doi.org/10.1007/s11469-021-00738-1](https://link.springer.com/article/10.1007/s11469-021-00738-1) <br>
 (SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.2)
 - **Zhang, S.**, Li, Y., Ren, S., & Liu, T.<sup>+</sup> (2023). Associations between undergraduates' interpersonal relationships and mental health in perspective of social network analysis. *Current Psychology*, *42*(3), 2059-2066. [https://doi.org/10.1007/s12144-021-01629-3](https://link.springer.com/article/10.1007/s12144-021-01629-3) <br>
@@ -55,11 +55,13 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 - **张舒**, 刘拓<sup>+</sup>. (2020). 疫情相关媒体信息暴露与心理状况分析. 2020年北京高校应用心理与认知科学联合论坛, 北京(线上).【获评优秀口头报告】
 
 ##### 其他作者
+- 曹诗堞, **张舒**, 黄华东, 余小曼, 孟慧<sup>+</sup>. (2024). 睡眠如何助力员工创新? 早晨恢复状态、睡眠变异性、强迫型工作激情的作用. 中国社会心理学会2024年学术年会, 上海.
+- 易清, **张舒**, 殷实, 孟慧<sup>+</sup>. (2024). 人才保卫战: 大样本网络分析揭示离职意向的关键因素. 中国社会心理学会2024年学术年会, 上海.
 - 王可心, **张舒**, 刘梦君, 孟慧<sup>+</sup>. (2024). 早晨恢复状态不佳时, 网络闲逛有利于员工减压. 中国社会心理学会管理心理学专业委员会, 广西桂林.
 - 余小曼, **张舒**, 孟慧<sup>+</sup>. (2023). 过多会坏事，过少不济事: 网络闲逛与疲劳的曲线关系. 中国社会心理学会2023年学术年会, 广西桂林.
 - 焦奡, 曹诗堞, **张舒**, 孟慧<sup>+</sup>. (2023). 员工会通过网络闲逛来逃避压力获得恢复吗——午休后恢复状态的作用. 中国社会心理学会2023年学术年会, 广西桂林.
 - 乐菁菁, **张舒**, 陈梦佳, 张麒<sup>+</sup>, 孟慧<sup>+</sup>. (2023). 一个婚姻辅导中好用的评估工具——伴侣安抚感知量表的编制. 中国社会心理学会2023年学术年会, 广西桂林.
-- 曹诗堞, **张舒**, 余小曼, 孟慧<sup>+</sup>. (2023). 睡得越长, 恢复得越好? 睡眠、早晨恢复状态和工作绩效: 强迫型激情的中介作用. 中国社会心理学会管理心理学专业委员会2023年学术年会, 山东济南.
+- 曹诗堞, **张舒**, 余小曼, 孟慧<sup>+</sup>. (2023). 睡得越长, 恢复得越好? 睡眠、早晨恢复状态和工作绩效: 强迫型激情的调节作用. 中国社会心理学会管理心理学专业委员会2023年学术年会, 山东济南.
 
 #### 国际 (Abroad)
 ##### 一作及报告人
