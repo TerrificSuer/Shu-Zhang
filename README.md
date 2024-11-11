@@ -1,10 +1,10 @@
 # 张舒
 
 ## 教育经历 (Educational Background)
-- 博士：2021-今，华东师范大学，心理与认知科学学院，应用心理学专业<br>
-Ph.D.: East China Normal University, School of Psychology and Cognitive Science, Applied Psychology
-- 硕士：2019-2021，天津师范大学，心理学部，应用心理专业<br>
-M.AP.: Tianjin Normal University, Faculty of Psychology, Applied Psychology
+- 博士：2021-今，华东师范大学，心理与认知科学学院，应用心理学专业，职业心理健康心理学方向<br>
+Ph.D.: East China Normal University, School of Psychology and Cognitive Science, Applied Psychology, Occupational Mental Health
+- 硕士：2019-2021，天津师范大学，心理学部，应用心理专业，用户体验研究方向<br>
+M.AP.: Tianjin Normal University, Faculty of Psychology, Applied Psychology, User Experience Research
 - 学士：2015-2019，辽宁师范大学，心理学院，应用心理学专业<br>
 B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 
