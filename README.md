@@ -5,7 +5,7 @@
 Ph.D.: East China Normal University, School of Psychology and Cognitive Science, Applied Psychology, Occupational Mental Health
 - 硕士：2019-2021，天津师范大学，心理学部，应用心理专业，用户体验研究方向<br>
 M.AP.: Tianjin Normal University, Faculty of Psychology, Applied Psychology, User Experience Research
-- 学士：2015-2019，辽宁师范大学，心理学院，应用心理学专业<br>
+- 学士：2015-2019，辽宁师范大学，心理学院，应用心理学(师范)专业<br>
 B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 
 ## 研究兴趣 (Research Interests)
