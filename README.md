@@ -39,7 +39,7 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 #### 2021
 
 #### 2020
-- **张舒**, 刘拓<sup>+</sup>, 夏方婧, 李雨桐<sup>+</sup>. (2020). 大学生人际关系与心理健康的社会网络分析. *中国心理卫生杂志*, *34*(10), 855–859. [http://doi.org/10.3969/j.issn.1000-6729.2020.10.010](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoh3tjdiuy_GXNjoPEmoU1on7HoqwOB_PM3w5YA29I21U&uniplatform=NZKPT) (CSSCI扩展版收录)<br> 
+- **张舒**, 刘拓<sup>+</sup>, 夏方婧, 李雨桐<sup>+</sup>. (2020). 大学生人际关系与心理健康的社会网络分析. *中国心理卫生杂志*, *34*(10), 855–859. [http://doi.org/10.3969/j.issn.1000-6729.2020.10.010](https://kns.cnki.net/kcms2/article/abstract?v=3uoqIhG8C44YLTlOAiTRKibYlV5Vjs7i8oRR1PAr7RxjuAJk4dHXoh3tjdiuy_GXNjoPEmoU1on7HoqwOB_PM3w5YA29I21U&uniplatform=NZKPT) (CSCD收录；CSSCI扩展版收录)<br> 
 **Zhang, S.**, Liu, T., Xia, F., & Li, Y. (2020). A social network analysis approach to interpersonal relationship and mental health in college students. *Chinese Mental Health Journal*, *34*(10), 855–859.
 
 ### 会议报告 (Conference Presentations)
