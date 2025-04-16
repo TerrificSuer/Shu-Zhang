@@ -23,7 +23,7 @@ Network analysis methods (social network analysis, psychometric network analysis
 Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 ### 已发表论文 (Published Papers)<br>
 #### 2025
-- Le, J.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, Chen, M., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2025). Development and validation of the perceived partner stroke scale in Chinese married individuals. *Transactional Analysis Journal*, *55*(2), 157–174. [https://doi.org/10.1080/03621537.2025.2460399](https://doi.org/10.1080/03621537.2025.2460399) <br>
+- Le, J.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, Chen, M., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2025). Development and validation of the Perceived Partner Stroke Scale in Chinese married individuals. *Transactional Analysis Journal*, *55*(2), 157–174. [https://doi.org/10.1080/03621537.2025.2460399](https://doi.org/10.1080/03621537.2025.2460399) <br>
 
 #### 2023
 - **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) <br>
