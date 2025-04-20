@@ -25,6 +25,8 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 #### 2025
 - Le, J.<sup>#</sup>, **Zhang, S.**<sup>#</sup>, Chen, M., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2025). Development and validation of the Perceived Partner Stroke Scale in Chinese married individuals. *Transactional Analysis Journal*, *55*(2), 157–174. [https://doi.org/10.1080/03621537.2025.2460399](https://doi.org/10.1080/03621537.2025.2460399) <br>
 
+#### 2024
+
 #### 2023
 - **Zhang, S.**, Jiang, J., Hao, L., Yu, Y., Zhang, Q.<sup>+</sup>, & Meng, H.<sup>+</sup> (2023). What matters most? Network analysis of mental health, recovery experiences, sleep, and fatigue among career firefighters. *Stress and Health*, *39*(3), 663–672. [https://doi.org/10.1002/smi.321](https://onlinelibrary.wiley.com/doi/10.1002/smi.3215) <br>
 (SCIE/SSCI Q1/Q2 IF<sub>2023</sub> = 3.1; ABS<sub>2024</sub> 3*)
