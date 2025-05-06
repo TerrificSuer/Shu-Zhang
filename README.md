@@ -98,6 +98,7 @@ National Innovation Training Project for Undergraduates (China)
 - *Applied Psychology: Health and Well-Being*
 - *International Journal of Mental Health and Addiction*
 - *Current Psychology*
+- *Behavior Modification*
 - *Journal of Substance Use*
 - *BMC Psychology*
 - *Sustainability*
