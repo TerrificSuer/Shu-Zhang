@@ -95,6 +95,7 @@ National Innovation Training Project for Undergraduates (China)
 ## 审稿 (Reviewer)
 - *Applied Psychology: Health and Well-Being*
 - *International Journal of Mental Health and Addiction*
+- *Journal of Managerial Psychology*
 - *Current Psychology*
 - *Behavior Modification*
 - *Journal of Substance Use*
