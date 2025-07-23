@@ -75,7 +75,7 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 - **Zhang, S.**, Chen, X., Li, Y., & Liu, T. (2021). Undergraduates' interpersonal relationship and mental health based on social network analysis. The 32nd International Congress of Psychology, Prague, Czech Republic. (Oral Pre; Online)【[下载原文/Download](https://onlinelibrary.wiley.com/doi/full/10.1002/ijop.13042)】
 
 ## 科研项目 (Grants)
-- 国家级大学生创新训练项目(NO.201810165002)，大学生人际关系与心理健康的关系研究——基于社会网络分析方法，2018-2019年，已结题，主持<br>
+- 国家级大学生创新训练项目(NO.201810165008)，大学生人际关系与心理健康的关系研究——基于社会网络分析方法，2018-2019年，已结题，主持<br>
 National Innovation Training Project for Undergraduates (China)
 
 ## 代表性荣誉奖励 (Awards)
