@@ -9,14 +9,14 @@ M.AP.: Tianjin Normal University, Faculty of Psychology, Applied Psychology, Use
 B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 
 ## 研究兴趣 (Research Interests)
+- 人际关系与不道德行为、亲社会行为 (同伴关系、师生关系、学业作弊、助人行为)<br>
+Interpersonal relationships (peer relationships, teacher-student relationships) → unethical & prosocial behaviors (academic cheating, helping behaviors)
 - 网络使用行为 (工作场所的网络闲逛行为、网络休闲)<br>
 Internet use behaviors (cyberloafing behaviors in the workplace, cyber leisure)
-- 人际关系与亲社会行为 (同伴关系、师生关系、助人行为)<br>
-Interpersonal relationships and prosocial behaviors (peer relationships, teacher-student relationships, helping behaviors)
-- 工作与家庭 (工作连通行为)<br>
-Work and family (after hour connectivity)
-- 网络分析方法 (社会网络分析、心理测量网络分析)<br>
-Network analysis methods (social network analysis, psychometric network analysis)
+- 职业心理健康 (工作恢复、工作-家庭冲突)<br>
+Occupational mental health (work recovery, work-family conflict)
+- 网络分析方法 (社会网络分析、相关网络分析)<br>
+Network analysis methods (social network analysis, correlation network analysis)
 
 ## 研究成果 (Research Outputs)
 注释：<sup>#</sup>共同一作; <sup>+</sup>通讯作者<br>
