@@ -10,7 +10,7 @@ B.S.: Liaoning Normal Unviersity, School of Psychology, Applied Psychology
 
 ## 研究兴趣 (Research Interests)
 - 人际关系 (同伴关系、师生关系) → 不道德/亲社会行为 (学业作弊、助人行为)<br>
-Interpersonal relationships (peer relationships, teacher-student relationships) → unethical & prosocial behaviors (academic cheating, helping)
+Interpersonal relationships (peer relationships, teacher-student relationships) → Unethical & Prosocial behaviors (academic cheating, helping)
 - 网络使用行为 (工作场所的网络闲逛行为、网络休闲)<br>
 Internet use behaviors (cyberloafing behaviors in the workplace, cyber leisure)
 - 职业心理健康 (工作恢复、工作-家庭冲突)<br>
