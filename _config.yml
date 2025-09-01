@@ -1,9 +1,8 @@
 title: Shu Zhang
 logo: /assets/img/ShuZhang.JPG
-email: terrificsuer@gmail.com
 blank_title: true
 favicon: true
-description: "Ph.D. in Psychology"
+description: "Assistant Professor of Psychology, Hangzhou Normal University"
 show_downloads: false
 google_analytics: UA-108144808-1
 remote_theme: BDHU/minimalist
@@ -15,6 +14,9 @@ plugins:
   - jekyll-remote-theme
 
 sidebar:
+  - name: Email
+    icon: ✉️
+    link: mailto:terrificsuer@gmail.com
   - name: ResearchGate
     icon: <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" style="vertical-align:-0.125em;" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M5.242 13.769L0 9.5L12 0l12 9.5l-5.242 4.269C17.548 11.249 14.978 9.5 12 9.5c-2.977 0-5.548 1.748-6.758 4.269zM12 10a7 7 0 1 0 0 14a7 7 0 0 0 0-14z" fill="currentColor"/></svg>
     link: https://www.researchgate.net/profile/Shu-Zhang-72
