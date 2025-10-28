@@ -1,7 +1,7 @@
 # 张舒
-讲师 (Assistant Professor)<br>
-杭州师范大学 (Hangzhou Normal University) 经亨颐教育学院 (Jinghengyi School of Education)<br>
-📍仓前校区诚园5号楼305室
+讲师 (Assistant Professor) <br>
+杭州师范大学 经亨颐教育学院 <br>
+(Jinghengyi School of Education, Hangzhou Normal Univeristy)
 
 ## 受教育背景 (Educational Background)
 - 博士：2021.8-2025.6，华东师范大学，心理与认知科学学院，应用心理学专业<br>
