@@ -79,7 +79,7 @@ Note: <sup>#</sup>co-first author; <sup>+</sup>corresponding author
 
 ## 科研项目 (Grants)
 - 浙江省教育科学研究一般规划课题(NO.2026SCG124)，GenAI时代班级同伴关系对小学生心理健康作用的追踪研究，2026年-今，在研，主持<br>
-Education Sciences Planning Project of Zhejiang Province
+General Planning Project for Education Science of Zhejiang Province
 - 国家级大学生创新训练项目(NO.201810165008)，大学生人际关系与心理健康的关系研究——基于社会网络分析方法，2018年-2019年，已结题，主持<br>
 National Innovation Training Project for Undergraduates (China)
 
